@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/calculadora-cursoCod3r/static/css/main.e00ae933.css",
+    "main.js": "/calculadora-cursoCod3r/static/js/main.e1debf07.js",
+    "static/js/787.85bb9051.chunk.js": "/calculadora-cursoCod3r/static/js/787.85bb9051.chunk.js",
+    "static/media/RobotoMono-Thin.ttf": "/calculadora-cursoCod3r/static/media/RobotoMono-Thin.1a9534fd24de76752477.ttf",
+    "index.html": "/calculadora-cursoCod3r/index.html",
+    "main.e00ae933.css.map": "/calculadora-cursoCod3r/static/css/main.e00ae933.css.map",
+    "main.e1debf07.js.map": "/calculadora-cursoCod3r/static/js/main.e1debf07.js.map",
+    "787.85bb9051.chunk.js.map": "/calculadora-cursoCod3r/static/js/787.85bb9051.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e00ae933.css",
+    "static/js/main.e1debf07.js"
+  ]
+}
